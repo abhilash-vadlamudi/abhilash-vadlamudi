@@ -1,7 +1,7 @@
 # Hello, I'm Abhilash Vadlamudi 👋
 
 ## About Me
-I am a passionate software developer with **8** years of experience in the industry. I specialize in full-stack web development and have expertise in technologies such as Angular, ReacJs Python, and Node.js. I love building scalable and user-friendly applications that solve real-world problems.
+I am a passionate software developer with **8** years of experience in the industry. I specialize in full-stack web development and have expertise in technologies such as Angular, ReactJs Python, and Node.js. I love building scalable and user-friendly applications that solve real-world problems.
 
 ## Skills
 - **Programming Languages:** Java-Script, Type-Script, Python
